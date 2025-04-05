@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "Cocoapod compatibility for Segment's Analytics-Swift package."
   s.homepage     = "https://github.com/salami/analytics-swift-cocoapod"
   s.license      = { :type => "MIT", :file => "LICENSE" }
-  s.author      = { "Kyle G" => "kyle@kylegorlick.com" }
+  s.authors      = "Kyle G for Helium"
   s.source       = { :git => "https://github.com/salami/analytics-swift-cocoapod.git", :tag => "#{s.version}" }
   
   s.ios.deployment_target = "13.0"
